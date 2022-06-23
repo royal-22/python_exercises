@@ -1,5 +1,5 @@
 # python_exercises :snake:
-some coding problems solution (most from leetcode and checkio) 
+some solutions of coding problems (most from leetcode and checkio) 
 ®
 ₚyₜₕₒₙ
 
