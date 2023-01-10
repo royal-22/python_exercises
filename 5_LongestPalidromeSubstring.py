@@ -1,3 +1,7 @@
+"""
+Given a string s, return the longest palindromic substring in s.
+LeetCode: https://leetcode.com/problems/longest-palindromic-substring/description/
+"""
 class Solution:
     def longestPalindrome(self, s: str) -> str:
         def search(left, right):
@@ -14,7 +18,7 @@ class Solution:
             if len(t) > len(res): res = t
         return res
 
-
+// not mine just an example
 class Solution:
     def longestPalindrome(self, s: str) -> str:
         if s == s[::-1]: return s
